@@ -49,3 +49,5 @@ So now I am excited to take on this challenge and build this dashboard and perfo
 4. Recommendations
 
 ## Data Model
+![image](https://user-images.githubusercontent.com/37687420/205732239-2c111e00-003f-461f-8b80-c8418a5be85e.png)
+
